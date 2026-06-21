@@ -360,7 +360,4 @@ Given additional time, the following improvements could be implemented:
 ---
 
 ## Author
-
-Developed as part of an internship assignment
-
-> **Credit Default Prediction**
+Abhijeet Bagal
